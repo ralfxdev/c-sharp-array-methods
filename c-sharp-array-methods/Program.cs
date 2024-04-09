@@ -12,12 +12,12 @@ do
         Console.WriteLine("║ [2] Ejercicio 2           ║");
         Console.WriteLine("║ [3] Ejercicio 3           ║");
         Console.WriteLine("║ [4] Ejercicio 4           ║");
-        Console.WriteLine("║ [5] Ejercicio 4           ║");
-        Console.WriteLine("║ [6] Ejercicio 4           ║");
-        Console.WriteLine("║ [7] Ejercicio 4           ║");
-        Console.WriteLine("║ [8] Ejercicio 4           ║");
-        Console.WriteLine("║ [9] Ejercicio 4           ║");
-        Console.WriteLine("║ [10] Ejercicio 4           ║");
+        Console.WriteLine("║ [5] Ejercicio 5           ║");
+        Console.WriteLine("║ [6] Ejercicio 6           ║");
+        Console.WriteLine("║ [7] Ejercicio 7           ║");
+        Console.WriteLine("║ [8] Ejercicio 8           ║");
+        Console.WriteLine("║ [9] Ejercicio 9           ║");
+        Console.WriteLine("║ [10] Ejercicio 10         ║");
         Console.WriteLine("║ [0] Salir                 ║");
         Console.WriteLine("╚═══════════════════════════╝");
 
